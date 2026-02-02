@@ -1,5 +1,5 @@
 # Sales-Analysis-Dashboard
-This project showcases an end to end sales data analysis workflow using Microsoft Excel. From data cleaning and transformation to analysis and visualizations. The goal is to examine data inorder to discover patterns and draw insights that support data-driven decision making through KPIs and interactive visuals.
+This project showcases an end to end sales data analysis workflow using Microsoft Excel. From data cleaning and transformation to analysis and visualizations. The goal is to examine the sales data inorder to discover patterns and draw insights that support data-driven decision making through KPIs and interactive visuals.
 
 # Workbook Structure
 1.Data: Raw collected data.

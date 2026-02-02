@@ -38,8 +38,11 @@ This project showcases an end to end sales data analysis workflow using Microsof
 
 # Tools Used
 Microsoft Excel
+
 Pivot Tables and Charts
+
 Slicers and Filters
+
 # Data Cleaning and Assumptions Done
 Duplicates removed
 
